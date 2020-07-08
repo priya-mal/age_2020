@@ -1,5 +1,5 @@
 # Age 2020
-It takes an integer as an input and prints it square.
+It takes an integer as an input and gives your age.
 
 ## Installation
 pip install age_2020
